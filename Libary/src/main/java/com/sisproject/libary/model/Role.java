@@ -1,10 +1,10 @@
 package com.sisproject.libary.model;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.Generated;
 import lombok.NoArgsConstructor;
-import javax.persistence.*;
+
 
 @Data @NoArgsConstructor @AllArgsConstructor
 @Entity
